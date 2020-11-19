@@ -1,0 +1,13 @@
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\contagem_regressiva200a100\bin\Debug\netcoreapp3.1\contagem_regressiva200a100.exe
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\contagem_regressiva200a100\bin\Debug\netcoreapp3.1\contagem_regressiva200a100.deps.json
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\contagem_regressiva200a100\bin\Debug\netcoreapp3.1\contagem_regressiva200a100.runtimeconfig.json
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\contagem_regressiva200a100\bin\Debug\netcoreapp3.1\contagem_regressiva200a100.runtimeconfig.dev.json
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\contagem_regressiva200a100\bin\Debug\netcoreapp3.1\contagem_regressiva200a100.dll
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\contagem_regressiva200a100\bin\Debug\netcoreapp3.1\contagem_regressiva200a100.pdb
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\contagem_regressiva200a100\obj\Debug\netcoreapp3.1\contagem_regressiva200a100.csprojAssemblyReference.cache
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\contagem_regressiva200a100\obj\Debug\netcoreapp3.1\contagem_regressiva200a100.AssemblyInfoInputs.cache
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\contagem_regressiva200a100\obj\Debug\netcoreapp3.1\contagem_regressiva200a100.AssemblyInfo.cs
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\contagem_regressiva200a100\obj\Debug\netcoreapp3.1\contagem_regressiva200a100.csproj.CoreCompileInputs.cache
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\contagem_regressiva200a100\obj\Debug\netcoreapp3.1\contagem_regressiva200a100.dll
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\contagem_regressiva200a100\obj\Debug\netcoreapp3.1\contagem_regressiva200a100.pdb
+C:\Users\Luana e Regis\Desktop\Regis\senai\Backend\Console\contagem_regressiva200a100\obj\Debug\netcoreapp3.1\contagem_regressiva200a100.genruntimeconfig.cache
